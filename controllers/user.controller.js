@@ -4,7 +4,7 @@
  * defined in the User Controller
  */
  const User = require("../models/user.model");
- const objectConvertor = require("../utils/objectConcverter");
+ const objectConvertor = require("../utils/objectConverter");
  
  
  /**
